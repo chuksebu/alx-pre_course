@@ -6,5 +6,9 @@ echo "ALX School"
 >>>>>>> update_script
 =======
 #!/bin/bash
+<<<<<<< HEAD
 echo "ALX school"
 >>>>>>> 937b9f5e8683cf4c928cf0a5f91bdb96b6b34558
+=======
+echo ["ALX School"]
+>>>>>>> a1cd6e6c2be3bbe273315803084433ce38358407
